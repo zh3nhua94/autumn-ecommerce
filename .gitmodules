@@ -4,6 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/zh3nhua94/autumn-client.git
-[submodule "dashboard"]
-	path = dashboard
+[submodule "admin"]
+	path = admin
 	url = https://github.com/zh3nhua94/autumn-dashboard.git
